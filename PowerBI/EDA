@@ -1,1 +1,15 @@
+Exploratory Data Analysis (EDA)
 
+This phase focuses on understanding the dataset and extracting initial insights before moving into modeling or segmentation.
+
+Key Insights Visualized:
+- Total Sales Over Time
+- Number of Orders by Customer
+- Revenue by Customer
+- Top 10 Customers by Revenue
+- Sales by Country
+- Interactive Country Slicer
+
+The `EDA.png` file contains the Power BI dashboard created during this phase.
+
+📊 Tool used: Power BI, Power Query, DAX
