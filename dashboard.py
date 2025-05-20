@@ -47,7 +47,7 @@ if selected_module == "Overview":
     st.title("Power BI Dashboard Preview")
 
     # Show dashboard image
-    st.image("EDA.png", caption="Dashboard Preview", use_column_width=True)
+    st.image("EDA.png", caption="Dashboard Preview", use_container_width=True)
 
 # ================= CHURN ANALYSIS =================
 elif selected_module == "Churn Analysis":
