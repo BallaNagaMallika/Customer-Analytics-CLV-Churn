@@ -51,9 +51,9 @@ Churn explanation using SHAP
 
 **Clone this repository**
 
-git clone https://github.com/yourusername/churn-dashboard.git
+git clone https://github.com/yourusername/Customer-Analytics-CLV-Churn.git
 
-cd churn-dashboard
+cd Customer-Analytics-CLV-Churn
 
 **Install dependencies**
 
