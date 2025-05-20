@@ -13,7 +13,7 @@ st.set_page_config(page_title="Customer Dashboard", layout="wide")
 # Load data
 @st.cache_data
 def load_data():
-    url = "https://drive.google.com/file/d/1MaKNYEzplmTvSjJ2BPZqbbDn72LswnNY/view?usp=sharing"
+    url = "https://drive.google.com/uc?export=download&id=1MaKNYEzplmTvSjJ2BPZqbbDn72LswnNY"
     retail_df = pd.read_csv("online_retail.csv", encoding='ISO-8859-1')
     rfm_df = pd.read_csv("RFM1.csv")
     return retail_df, rfm_df
