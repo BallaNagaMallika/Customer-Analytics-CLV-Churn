@@ -1,6 +1,9 @@
 # Customer-Analytics-CLV-Churn
+
 **Customer Churn Prediction Dashboard**
+
 **Project Overview**
+
 The Customer Churn Prediction Dashboard is an interactive web application built with Streamlit that allows users to:<br>
 Upload and visualize customer transaction data
 
