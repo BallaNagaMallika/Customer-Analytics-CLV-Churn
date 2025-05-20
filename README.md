@@ -75,6 +75,10 @@ python churn_model.py
 
 This will train and save churn_model.pkl in your project directory.
 
+A Streamlit web app for visualizing customer analytics using RFM segmentation and churn prediction.
+
+🔗 **Live Demo:** https://customer-analytics-clv-churn-rtupdf4i8vygvvatq5rgap.streamlit.app/
+
 
 
 👩‍💻 Author
